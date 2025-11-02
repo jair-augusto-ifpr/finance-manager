@@ -119,7 +119,7 @@ const UpsertTrasactionDialog = ({
       <DialogContent>
         <DialogHeader>
           <DialogTitle>
-            {isUpdate ? "Atualizar" : "Criar"}Transações
+            {isUpdate ? "Atualizar" : "Criar"} Transações
           </DialogTitle>
           <DialogDescription>Insira as informções abaixo</DialogDescription>
         </DialogHeader>
